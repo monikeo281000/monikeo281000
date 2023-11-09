@@ -63,10 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/monikeo281000/monikeo281000/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
 </div>
 
