@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">"🔒 Cyber warrior with a coding blade ⚔️ | Passionate about cybersecurity, ethical hacking, and creating innovative coding projects 💻 | Defending digital realms and unlocking possibilities one line of code at a time 🚀 | Join me on the journey of mastering the art of secure and cutting-edge programming 🌟"</p>
+
+###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
