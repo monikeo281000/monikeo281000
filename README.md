@@ -1,12 +1,27 @@
-<h1 align="center">Hi 👋, I'm Scarlet Pioneer</h1>
+<h1 align="left">Hey 👋 I am Moni</h1>
+
+###
+<ul>
+  <li><p align="left">🎓 Cyber Security Student at CamTech University</p></li>
+  <li><p align="left">🇰🇭 Nationality: Cambodian</p></li>
+</ul>
 
 ###
 
-<p align="left">"🔒 Cyber warrior with a coding blade ⚔️ | Passionate about cybersecurity, ethical hacking, and creating innovative coding projects 💻 | Defending digital realms and unlocking possibilities one line of code at a time 🚀 | Join me on the journey of mastering the art of secure and cutting-edge programming 🌟"</p>
+<h2 align="left">About me</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="left">I'm passionate about cybersecurity and love writing code, especially for Linux tools, customization, TUI (Text User Interface), and security testing. My journey in tech revolves around creating powerful tools and exploring the depths of system security.</p>
+
+###
+
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/940149129159891.618829b280cbe.gif"  />
 
 ###
 
@@ -59,11 +74,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=monikeo281000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monikeo281000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
