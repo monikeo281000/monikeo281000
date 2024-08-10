@@ -19,15 +19,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=vim" height="30" alt="vim logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rocket" height="30" alt="rocket logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="30" alt="arch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo"  />
+  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
